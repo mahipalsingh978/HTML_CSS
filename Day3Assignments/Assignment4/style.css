@@ -1,0 +1,22 @@
+.container{
+    border:1px solid;
+    width:500px;
+    margin:0 auto;
+}
+.formbox{
+    height:200px;
+    width:450px;
+    margin:15px auto;
+    background-color: grey;
+    display:flex;
+    justify-content: center;
+}
+.photobox{
+    
+    background-color: lightgrey;
+}
+.text_area{
+    resize:none;
+    margin-top:2px;
+    
+}
